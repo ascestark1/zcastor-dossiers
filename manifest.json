@@ -742,6 +742,13 @@
         "uri": "https://raw.githubusercontent.com/ascestark1/zcastor-dossiers/main/trades/2026-09-17/sig_ab38b82612d5.cc2214df.json"
       }
     ],
+    "sig_b62bdadcb06a": [
+      {
+        "checksum": "sha256:981db65b1e22fb3115da599f0682def17b40dadd6d7fb9c3efe2ffbd1c278b17",
+        "path": "trades/2026-10-04/sig_b62bdadcb06a.981db65b.json",
+        "uri": "https://raw.githubusercontent.com/ascestark1/zcastor-dossiers/main/trades/2026-10-04/sig_b62bdadcb06a.981db65b.json"
+      }
+    ],
     "sig_b9706fba3a40": [
       {
         "checksum": "sha256:fcb07fd7a49f710363471b9a3d4cfd7125b25167c09db3e7ea1f94e4b1292ddf",
