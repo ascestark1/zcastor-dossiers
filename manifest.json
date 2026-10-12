@@ -410,6 +410,13 @@
         "path": "decisions/2026-10-10.46abcb82.json",
         "uri": "https://raw.githubusercontent.com/ascestark1/zcastor-dossiers/main/decisions/2026-10-10.46abcb82.json"
       }
+    ],
+    "2026-10-11": [
+      {
+        "checksum": "sha256:efa78983fc755e89a03f120be268847937f960015312cb3ad8f6548146ff2ae2",
+        "path": "decisions/2026-10-11.efa78983.json",
+        "uri": "https://raw.githubusercontent.com/ascestark1/zcastor-dossiers/main/decisions/2026-10-11.efa78983.json"
+      }
     ]
   },
   "trades": {
