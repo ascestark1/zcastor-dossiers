@@ -807,6 +807,13 @@
         "uri": "https://raw.githubusercontent.com/ascestark1/zcastor-dossiers/main/events/2026-11-03/sig_880f8c02b979.shadow_watcher.20261103T141503Z.78c2f224.json"
       }
     ],
+    "sig_a6c37a6a61cf.shadow_addon.20261108T220158Z": [
+      {
+        "checksum": "sha256:9dfa6e03df2a511b6155db91b4f79c6793ab4f9e77d819fe6b46e9a43d871027",
+        "path": "events/2026-11-08/sig_a6c37a6a61cf.shadow_addon.20261108T220158Z.9dfa6e03.json",
+        "uri": "https://raw.githubusercontent.com/ascestark1/zcastor-dossiers/main/events/2026-11-08/sig_a6c37a6a61cf.shadow_addon.20261108T220158Z.9dfa6e03.json"
+      }
+    ],
     "sig_a6c37a6a61cf.shadow_watcher.20261108T220103Z": [
       {
         "checksum": "sha256:3c12b97ae207ee73f1ab4c2530a5391666ea7509840384295eb2ac4089b8e8ce",
