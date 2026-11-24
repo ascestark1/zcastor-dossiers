@@ -2092,6 +2092,13 @@
         "uri": "https://raw.githubusercontent.com/ascestark1/zcastor-dossiers/main/events/2026-11-15/sig_df50f3be0170.shadow_watcher.20261115T083803Z.ced9e0ae.json"
       }
     ],
+    "sig_e05a22a34c13.shadow_watcher.20261124T151501Z": [
+      {
+        "checksum": "sha256:62fb398a9bf696de3071b536cc87dc26e5acfba5f9b60eb90306816947c0fd12",
+        "path": "events/2026-11-24/sig_e05a22a34c13.shadow_watcher.20261124T151501Z.62fb398a.json",
+        "uri": "https://raw.githubusercontent.com/ascestark1/zcastor-dossiers/main/events/2026-11-24/sig_e05a22a34c13.shadow_watcher.20261124T151501Z.62fb398a.json"
+      }
+    ],
     "sig_e071489c545b.shadow_addon.20261115T082659Z": [
       {
         "checksum": "sha256:3b6666e2c936e029887afb5842268d28a5aa740039c50028eee34ea1f68f9809",
@@ -4024,6 +4031,13 @@
         "checksum": "sha256:81450c1a2d9b4d6d7eb6291b8f849c3eb813ea12b34fe636fe4f3f60c4ed6f91",
         "path": "trades/2026-11-15/sig_df50f3be0170.81450c1a.json",
         "uri": "https://raw.githubusercontent.com/ascestark1/zcastor-dossiers/main/trades/2026-11-15/sig_df50f3be0170.81450c1a.json"
+      }
+    ],
+    "sig_e05a22a34c13": [
+      {
+        "checksum": "sha256:7a929d821bff38574e78f0b697a1ce3999f8822be8decae377eb76442e04174c",
+        "path": "trades/2026-11-24/sig_e05a22a34c13.7a929d82.json",
+        "uri": "https://raw.githubusercontent.com/ascestark1/zcastor-dossiers/main/trades/2026-11-24/sig_e05a22a34c13.7a929d82.json"
       }
     ],
     "sig_e071489c545b": [
