@@ -772,6 +772,11 @@
         "checksum": "sha256:cf97e65d3382c48e08757caa1841a256a088398dc36771033116be2cd6f0df43",
         "path": "decisions/2026-11-25.cf97e65d.json",
         "uri": "https://raw.githubusercontent.com/ascestark1/zcastor-dossiers/main/decisions/2026-11-25.cf97e65d.json"
+      },
+      {
+        "checksum": "sha256:2c554577b732d44f9770734dc94b36d4f999bbf2435d1a4864bb2f73cb3dbf8d",
+        "path": "decisions/2026-11-25.2c554577.json",
+        "uri": "https://raw.githubusercontent.com/ascestark1/zcastor-dossiers/main/decisions/2026-11-25.2c554577.json"
       }
     ]
   },
